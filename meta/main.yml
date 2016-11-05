@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Ingo Becker
+  description: Easy lv backed libvirt storage pools
+  license: GPLv3
+  min_ansible_version: 2.0
+  platforms:
+  - name: ArchLinux
+    versions:
+    - any
+  galaxy_tags: [virtualization system]
