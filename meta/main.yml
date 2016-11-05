@@ -7,4 +7,6 @@ galaxy_info:
   - name: ArchLinux
     versions:
     - any
-  galaxy_tags: [virtualization system]
+  galaxy_tags: 
+    - system
+    - virtualization
